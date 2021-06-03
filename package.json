@@ -1,0 +1,14 @@
+{
+    "name": "com.tymski.remove-empty-folders",
+    "displayName": "Remove Empty Folders",
+    "description": "Adds option to remove empty folders in editor",
+    "version": "1.0.0",
+    "unity": "2017.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tymski/UnityRemoveEmptyFolders"
+    },
+    "author": {
+        "name": "Tymski"
+    }
+}
